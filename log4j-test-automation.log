@@ -1,0 +1,8 @@
+2024-10-03 03:14:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Shailendra\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2024-10-03 03:14:50 INFO  LogCapture:33 - --------------Base Step Initialization Completed....-----------------
+2024-10-03 03:14:53 INFO  LogCapture:33 - User ID: 1 has completed 55.00000000000001% of tasks.
+2024-10-03 03:14:53 INFO  LogCapture:33 - User ID: 5 has completed 60.0% of tasks.
+2024-10-03 03:14:53 INFO  LogCapture:33 - User ID: 10 has completed 60.0% of tasks.
+2024-10-03 03:14:53 INFO  LogCapture:33 - Script Completed.

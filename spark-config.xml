@@ -1,0 +1,8 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<configuration>
+    <enableChart>true</enableChart>
+    <theme>STANDARD</theme>
+    <documentTitle>Spark Report</documentTitle>
+    <reportName>Test Automation Report</reportName>
+    <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+</configuration>
